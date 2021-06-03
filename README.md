@@ -1,3 +1,19 @@
+<h1 align="center">
+UI Clone - Twitter Responsive
+</h1>
+
+## Participants
+
+[<img src="https://avatars.githubusercontent.com/u/20409822?v=4" width="75px;"/>](https://github.com/adisiojunior)
+
+[Adísio Fialho Jr](https://github.com/adisiojunior)
+
+## Techs
+
+- [x] React.js
+- [x] Styled Components
+- [x] TypeScript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
