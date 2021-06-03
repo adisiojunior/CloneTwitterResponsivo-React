@@ -2,6 +2,8 @@
 UI Clone - Twitter Responsive
 </h1>
 
+![image](https://user-images.githubusercontent.com/20409822/120568562-7bb2a180-c3ea-11eb-91e2-ccabf84113ee.png)
+
 ## Participants
 
 [<img src="https://avatars.githubusercontent.com/u/20409822?v=4" width="75px;"/>](https://github.com/adisiojunior)
